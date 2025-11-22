@@ -5,20 +5,24 @@ Welcome to my academic journey! This repository documents all of my coursework, 
 
 This repo grows with me — from foundational programming all the way to advanced AI and software development.
 
-## 📚 Repository Structure will look like (by the end of the journey):
+## 📚 Repository Structure
+
+```
 BSc-CS-degree-journey/
 │
 ├── year1/
-│ ├── semester1/
-│ └── semester2/
+│   ├── semester1/
+│   └── semester2/
 │
 ├── year2/
-│ ├── semester1/
-│ └── semester2/
+│   ├── semester1/
+│   └── semester2/
 │
 └── year3/
-├── semester1/
-└── semester2/
+    ├── semester1/
+    └── semester2/
+```
+
 
 Each semester contains folders for individual modules.  
 Each module contains:
