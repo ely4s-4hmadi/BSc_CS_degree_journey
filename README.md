@@ -1,5 +1,5 @@
 # 🎓 BSc Computer Science — Degree Journey  
-*A complete archive of my Computer Science degree, organised by year and semester.*
+**A complete archive of my Computer Science degree, organised by year and semester.**
 
 Welcome to my academic journey! This repository documents all of my coursework, assignments, projects, notes, and learning materials throughout my **BSc in Computer Science**, with a strong focus on **Artificial Intelligence**, mathematics, programming, and problem-solving.
 
