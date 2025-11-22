@@ -12,15 +12,38 @@ BSc-CS-degree-journey/
 │
 ├── year1/
 │   ├── semester1/
+│   |   ├── Comp101_intro-to-programming/
+│   |   ├── Comp107_designing-systems-for-society/
+│   |   ├── Comp109_foundation-of-computer-science/
+│   |   └── Comp111-intro-to-artificial-intelligence/
 │   └── semester2/
+│       ├── module1/
+│       ├── module2/
+│       ├── module3/
+│       └── module4/
 │
 ├── year2/
 │   ├── semester1/
+│   |   ├── module1/
+│   |   ├── module2/
+│   |   ├── module3/
+│   |   └── module4/
 │   └── semester2/
+│       ├── module1/
+│       ├── module2/
+│       ├── module3/
+│       └── module4/
 │
 └── year3/
     ├── semester1/
+    |   ├── module1/
+    |   ├── module2/
+    |   └── module4/
     └── semester2/
+        ├── module1/
+        ├── module2/
+        ├── module3/
+        └── Comp390/
 ```
 
 
