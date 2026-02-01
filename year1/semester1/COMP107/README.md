@@ -1,42 +1,43 @@
 # COMP107 – Designing Systems for Digital Societies
 
-## Module Overview
-This module introduces the broader context of computing within society. It focuses on how computing systems are designed, developed, and communicated while considering ethical, social, and legal responsibilities.
+This module was about understanding **computing beyond just coding**. It focused on how computing systems exist within society and how they should be designed responsibly, taking into account ethical, social, and legal factors.
 
-The module also develops essential professional and employability skills required for a computing professional.
+A big part of the module was also about developing **professional and employability skills** that are important for a computing professional.
 
 ---
 
-## Key Topics Covered
-- Disciplines of computing  
-- Introduction to professional ethics  
-- Social and legal aspects of computing  
-- Communication skills for computing professionals  
-- Time and project management  
-- Employability skills in the computing industry  
-- System design strategies at:
+## What I Learned
+In this module, I learned about:
+
+- The different **disciplines of computing**
+- Basic concepts of **professional ethics** in computing
+- **Social and legal aspects** of technology
+- How to communicate ideas clearly in a professional context
+- **Time and project management** skills
+- Employability skills needed in the computing industry
+- How to design systems at:
   - Conceptual level
   - Logical level
-- Communicating system designs effectively with stakeholders  
+- How to **communicate system designs effectively** with stakeholders
 
 ---
 
 ## Assessment
-- No written exam  
-- **Four coursework assignments**
-  - Combination of **individual** and **group** work  
-  - Focused on analysis, system design, communication, and professionalism  
+- There was **no written exam**
+- The module was assessed through **four coursework assignments**
+  - A mix of **individual** and **group** work
+  - Focused on analysis, system design, communication, and professionalism
 
 ---
 
-## Skills Developed
+## Skills I Developed
 - Ethical awareness in computing  
 - Teamwork and collaboration  
-- Professional communication  
+- Professional written and verbal communication  
 - System thinking and design  
-- Project and time management  
+- Time and project management  
 
 ---
 
-## Notes
-This module emphasised real-world computing practice rather than technical coding, helping build a strong professional foundation for later years.
+## Personal Notes
+This module helped me understand the **real-world context of computing**. It improved my communication and teamwork skills and showed me that being a good computing professional is not only about technical ability, but also about responsibility, ethics, and clear communication.
