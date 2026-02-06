@@ -1,4 +1,4 @@
-# Week 02 – Assignment 02 (Lunar Rover Navigation)
+# Assignment 02 (Lunar Rover Navigation)
 
 This assignment builds on the basics from the first week and introduces **selection (if–else)** alongside sequence. The goal was to simulate the movement of a rover on the Moon and determine whether it can reach its target destination based on battery constraints.
 
