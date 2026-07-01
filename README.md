@@ -17,10 +17,10 @@ BSc-CS-degree-journey/
 │   |   ├── Comp109_foundation-of-computer-science/
 │   |   └── Comp111-intro-to-artificial-intelligence/
 │   └── semester2/
-│       ├── module1/
-│       ├── module2/
-│       ├── module3/
-│       └── module4/
+│       ├── Comp108_data-structures-and-algorithms
+│       ├── Comp116_analytic-techniques-for-computer-science
+│       ├── Comp122_object-oriented-programming
+│       └── Comp124_computer-systems
 │
 ├── year2/
 │   ├── semester1/
