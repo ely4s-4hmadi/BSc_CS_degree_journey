@@ -1,4 +1,4 @@
-#lab01_ex310_sequence.py
+#Lab-01_ex310_sequence.py
 #KD - Tutor: Open date
 #Example of sequential code in action
 
