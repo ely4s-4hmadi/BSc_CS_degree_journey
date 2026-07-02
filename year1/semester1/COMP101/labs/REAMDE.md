@@ -35,10 +35,5 @@ By completing these labs, you should be able to:
 python3 Lab-01_sequence.py
 ```
 
-or
-
-```bash
-python3 lab01_sequence.py
-```
 
 > Depending on your system, you may use `python` instead of `python3`.
